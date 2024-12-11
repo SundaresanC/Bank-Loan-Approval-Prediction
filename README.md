@@ -1,8 +1,3 @@
-# Bank-Loan-Prediction
-Here’s a template for your GitHub README file for a Bank Loan Prediction project using Random Forest and SVM:
-
----
-
 # Bank Loan Prediction using Random Forest and SVM
 
 This project predicts the approval of bank loans based on various applicant data using two machine learning algorithms: **Random Forest** and **Support Vector Machine (SVM)**. The model is trained on a dataset of loan applications and aims to predict whether a loan will be approved or not based on factors like income, credit score, and other financial details.
