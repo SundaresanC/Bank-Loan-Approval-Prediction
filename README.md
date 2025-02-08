@@ -50,10 +50,4 @@ The models' performance can be evaluated using metrics such as:
 
 Contributions to improve the accuracy of the models or to add new features are welcome! Feel free to fork this repository and create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Feel free to adjust the content based on your actual project structure and dataset!
